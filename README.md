@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Oussama, Welcome to my github acount</h1>
 <h3 align="center">A passionate embedded systems engineer undergraduate student from Tunisia</h3>
 
-- 🔭 I’m currently working on **Computer vision project**
+<h3>👤 About Me</h3><br>
+I am a software developer driven by a profound curiosity about how things work—not just the how, but the why. My main interests lie in low-level programming and solving complex challenges within resource-constrained environments.
+<br>
+<h3>🛠️ Key Interests & Skills</h3><br>
+<b>Low-Level & Embedded Systems: </b>My passion for fundamental engineering led me to explore system architecture, exemplified by building a bare-metal STM32 bootloader purely out of curiosity.<br><br>
 
-- 🌱 I’m currently learning **OpenCv, FPGA cyclone IV with VHDL**
+<b>Core Languages:</b> Proficient and passionate about C/C++, which I leverage for performance-critical tasks and problem-solving.
+
+<b>Cross-Platform Development:</b> Enjoy designing robust, multi-platform applications using frameworks like Qt.
+
+<b>Current Focus:</b> I am actively learning Computer Vision (OpenCV, Machine Learning) with the goal of integrating these capabilities into my low-resource, embedded projects.
+
+<b>Hardware Acceleration:</b> Exploring FPGAs (currently learning with an Altera Cyclone IV EP4CE6E22C8) to implement fast, Edge Computing solutions.
+
+<b>System Architecture:</b> Fascinated by Operating Systems and their inner workings, especially the Linux Kernel.
 
 - 📫 How to reach me **oussama.elwefi@gmail.com**
 
